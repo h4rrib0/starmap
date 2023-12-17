@@ -16,7 +16,7 @@ function App() {
             element={
               <>
                 <Routes>
-                  <Route path="/" element={<DarkestBeforeDawn />} />
+                  <Route path="/dbd" element={<DarkestBeforeDawn />} />
                   {/*
                   <Route path="/home" element={<Home />} />
                   <Route path="/hyades" element={<Page2 />} />
